@@ -1,0 +1,17 @@
+.subject_group {
+    border: 1px dashed;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-color: #ccc;
+}
+
+input.form-control.input_style {
+    margin-bottom: 5px;
+}
+
+.remove_subject {
+    color: red;
+}
+.toggle_status {
+    margin-left: 10px;
+}
